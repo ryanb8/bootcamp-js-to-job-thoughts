@@ -41,13 +41,13 @@ In order of priority
 
 Suggestions on how to demonstrate:
 1. **Make a custom fullstack project, something interesting and personal.** 
-  - Projects from bootcamp may work, but often bootcamp projects feel cookie cutter and don't stand out - everyone does a facebook clone or whatever. 
-  - Make a webapp that allows you to put pins on a map of the places you been, the mountains you've climbed, or the resorts you've skiied. Make a web app that allows you to look up your usda hardiness zone by zip code and allows you to add plants to a database along with when they should be planted by hardiness zone. 
-  - Something unique goes a long way. 
-  - Use git/github. 
-  - Deploy it so that it's public on the web. 
-  - Make sure it has testing.
-  - Make the code clean.
+     - Projects from bootcamp may work, but often bootcamp projects feel cookie cutter and don't stand out - everyone does a facebook clone or whatever. 
+     - Make a webapp that allows you to put pins on a map of the places you been, the mountains you've climbed, or the resorts you've skiied. Make a web app that allows you to look up your usda hardiness zone by zip code and allows you to add plants to a database along with when they should be planted by hardiness zone. 
+     - Something unique goes a long way. 
+     - Use git/github. 
+     - Deploy it so that it's public on the web. 
+     - Make sure it has testing.
+     - Make the code clean.
 2. **Make a simple webpage for yourself** with your bio, contact, and resume using only HTML and CSS. Do enough interesting things (styling, colors, fonts, etc) to demonstrate skills.  Deploy it so that it's public on the web.
 3. Make a (relatively simple) coderpen.io (do one of the monthly challenges?) to show off how you can build something interesting in CSS and HTML with minimal JS.
 
