@@ -39,15 +39,22 @@ In order of priority
 | Rare Jewel, not a high focus                    | Django                 | Django is the frontend web app framework of choice for python.                                                                                                                                                                                                                                                       |
 
 Suggestions on how to demonstrate:
-1. Make a custom fullstack project, something interesting and personal. Projects from bootcamp may work, but often bootcamp projects feel cookie cutter and don't stand out - everyone does a facebook clone or whatever. Make a webapp that allows you to put pins on a map of the places you been, the mountains you've climbed, or the resorts you've skiied. Make a web app that allows you to look up your usda hardiness zone by zip code and allows you to add plants to a database along with when they should be planted by hardiness zone. Something unique goes a long way. Use git/github. Deploy it so that it's public on the web. Make sure it has testing. Make the code clean.
-2. Make a simple webpage for yourself with your bio, contact, and resume using only HTML and CSS. Do enough interesting things (styling, colors, fonts, etc) to demonstrate skills.  Deploy it so that it's public on the web.
+1. **Make a custom fullstack project, something interesting and personal.** 
+  - Projects from bootcamp may work, but often bootcamp projects feel cookie cutter and don't stand out - everyone does a facebook clone or whatever. 
+  - Make a webapp that allows you to put pins on a map of the places you been, the mountains you've climbed, or the resorts you've skiied. Make a web app that allows you to look up your usda hardiness zone by zip code and allows you to add plants to a database along with when they should be planted by hardiness zone. 
+  - Something unique goes a long way. 
+  - Use git/github. 
+  - Deploy it so that it's public on the web. 
+  - Make sure it has testing.
+  - Make the code clean.
+2. **Make a simple webpage for yourself** with your bio, contact, and resume using only HTML and CSS. Do enough interesting things (styling, colors, fonts, etc) to demonstrate skills.  Deploy it so that it's public on the web.
 3. Make a (relatively simple) coderpen.io (do one of the monthly challenges?) to show off how you can build something interesting in CSS and HTML with minimal JS.
 
 The goal is not for these projects to be perfect or complete (that's nice!), but to show that you have the skills and abilities to make them perfect. 
 
 Softer things in tech space:
-- Clean code - find some code that someone else experienced wrote that makes you go "man, this is clean". You want to aspire to that.
-- Strong readmes and comments - projects should have good readmes that explain the what, why, and setup. Comments should be impactful or provide clarity to confusing code.
+- **Clean code** - find some code that someone else experienced wrote that makes you go "man, this is clean". You want to aspire to that.
+- **Strong readmes and comments** - projects should have good readmes that explain the what, why, and setup. Comments should be impactful or provide clarity to confusing code.
 
 ## Soft Skills to Demonstrate
 
@@ -68,8 +75,16 @@ Softer things in tech space:
 
 ## Things to remember:
 
-- Practice is import - you're a beginner and all of this information isn't seared in your head. (The languages that I was an expert in at one point, but I haven't used in 6+ months are hard for me for basic functionality!) Practice regularly - make a simple coderpenio, add a new feature to an existing project, do a leetcode, try out a new framework. You've got to be practicing to keep the skills up (until you get a job then you practice every day).
-- You'll screw up on something - every software engineer has horror stories of times they broken things (dropped a table, took down the production server, etc). It'll happen. Your goal is to identify it happened quickly, escalate effectively, and learn from your mistakes.
-- Learn to ask for help well
+- **Practice is required** - you're a beginner and all of this information isn't seared in your head. (The languages that I was an expert in at one point, but I haven't used in 6+ months are hard for me for basic functionality!) Practice regularly - make a simple coderpenio, add a new feature to an existing project, do a leetcode, try out a new framework. You've got to be practicing to keep the skills up (until you get a job then you practice every day).
+- **You'll screw up on something** - every software engineer has horror stories of times they broken things (dropped a table, took down the production server, etc). It'll happen. Your goal is to identify it happened quickly, escalate effectively, and learn from your mistakes.
+- **Learn to ask for help well**
 
 ## Understanding Coding Interviews and how to prepare
+
+To fill in
+
+- what do interviews look like
+- what do you do when you don't understand the question
+- what do you do when it's not going well
+- what should you expect
+- common questions and how to answer them
