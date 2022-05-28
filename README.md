@@ -6,6 +6,7 @@
   - [Soft Skills to Demonstrate](#soft-skills-to-demonstrate)
   - [Things to remember:](#things-to-remember)
   - [Understanding Coding Interviews and how to prepare](#understanding-coding-interviews-and-how-to-prepare)
+  - [Interview Softskills and Expected Questions](#interview-softskills-and-expected-questions)
 
 ## TLDR Plan
 
@@ -89,3 +90,29 @@ To fill in
 - what do you do when it's not going well
 - what should you expect
 - common questions and how to answer them
+
+## Interview Softskills and Expected Questions
+
+RYAN NEEDS TO DISTILL BELOW:
+
+Good idea to have a "personal story" and be able to speak to it. Ex. Interviewers may ask questions like:
+
+- What were you doing before the bootcamp?
+- Why did you decide to go to a bootcamp?
+- Why not just teach yourself web dev?
+- What interests you about programming/web dev?
+- Why do you want to be a web developer?
+
+They may not ask these exact questions but knowing how to answer them will give you more confidence when speaking to these things.
+
+Be able to speak informatively about the tools you already use. This is especially important when presenting a project to an interviewer, which is a pretty popular thing for interviewers to ask new devs. Ex. you might get questions like:
+
+- You went to a bootcamp that uses React as a major tool– why is that? What is it about React that makes it so effective for creating frontend applications vs. other ways of doing it?
+- You chose to use a css framework for this project. Why not use custom css? What are some of the trade-offs of using this framework vs. others vs. css from scratch?
+- You use nodejs for your server code. What are the benefits of using node vs. similar frameworks?
+
+Pair programming: If possible get some practice coding while someone is watching and evaluating you. This is a way different experience than coding alone and is something that hugely affects and surprises new devs when interviewing for the first time
+
+Clean code: from now on make it a habit to use ESlint and prettify for all javascript projects, as well as equivalent linters and formatters for other languages
+
+Git: bonus points for using and understanding rebase and interactive rebase
