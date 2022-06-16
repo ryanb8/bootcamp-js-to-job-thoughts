@@ -9,6 +9,7 @@
   - [Soft Skills to Demonstrate](#soft-skills-to-demonstrate)
   - [Things to remember:](#things-to-remember)
   - [Understanding Coding Interviews](#understanding-coding-interviews)
+  - [Contributing](#contributing)
 
 ## TLDR Plan
 
@@ -153,3 +154,6 @@ Be able to speak informatively about the tools you already use. This is especial
 
 
 
+## Contributing
+
+If you have thoughts or comments (or just want to fix a typo) feel free to make a PR.
