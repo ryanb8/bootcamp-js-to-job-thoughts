@@ -63,20 +63,20 @@ In order of priority
      - Make sure it has testing.
      - Make the code clean. 
   
-  A key part of bootcamps or getting your first software engineering job is projects - your goal is to show that you know how to program well and would fit in within a formal programming setting. This means you should demonstrate clean code, good testing practices, and a working product.
+    A key part of bootcamps or getting your first software engineering job is projects - your goal is to show that you know how to program well and would fit in within a formal programming setting. This means you should demonstrate clean code, good testing practices, and a working product.
 
-  You're secondary goal is to stand out. People hiring junior programmers see LOTS of projects. You have an advantage if you do something interesting and unique and you're at an advantage if you do something related to something you are passionate about.
+    You're secondary goal is to stand out. People hiring junior programmers see LOTS of projects. You have an advantage if you do something interesting and unique and you're at an advantage if you do something related to something you are passionate about.
 
-  Some unique project ideas:
+    Some unique project ideas:
 
-  - A web app that allows look up of USDA hardiness zone [formal example]](https://planthardiness.ars.usda.gov/) and gives recommended planting times for common veggies based on zone. This could even be a user contributed database!
-  - Bring online plant databases into the modern age (i.e I use these plant databases regularly and they are ok at best for user-friendliness: [http://floraofalabama.org/](http://floraofalabama.org/) and [https://www.wildflower.org/](https://www.wildflower.org/))
-  - A web that allows user to put a pin on a map for where they are from and for an establishment to show where visitors have come from (think the map with pins at a tourist trap, but done online)
-  - Pick something you are passionate about - what can you build?
+    - A web app that allows look up of USDA hardiness zone [formal example]](https://planthardiness.ars.usda.gov/) and gives recommended planting times for common veggies based on zone. This could even be a user contributed database!
+    - Bring online plant databases into the modern age (i.e I use these plant databases regularly and they are ok at best for user-friendliness: [http://floraofalabama.org/](http://floraofalabama.org/) and [https://www.wildflower.org/](https://www.wildflower.org/))
+    - A web that allows user to put a pin on a map for where they are from and for an establishment to show where visitors have come from (think the map with pins at a tourist trap, but done online)
+    - Pick something you are passionate about - what can you build?
 
-
-1. **Make a simple webpage for yourself** with your bio, contact, and resume using only HTML and CSS. Do enough interesting things (styling, colors, fonts, etc) to demonstrate skills.  Deploy it so that it's public on the web.
-2. Make a (relatively simple) coderpen.io (do one of the monthly challenges?) to show off how you can build something interesting in CSS and HTML with minimal JS.
+2. **Make a simple webpage for yourself** with your bio, contact, and resume using only HTML and CSS. Do enough interesting things (styling, colors, fonts, etc) to demonstrate skills.  Deploy it so that it's public on the web.
+   
+3. **Make a (relatively simple) coderpen.io** (do one of the monthly challenges?) to show off how you can build something interesting in CSS and HTML with minimal JS.
 
 The goal is not for these projects to be perfect or complete (that's nice!), but to show that you have the skills and abilities to make them perfect. 
 
