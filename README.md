@@ -1,5 +1,9 @@
 # Internship or Junior Level Fullstack Job Plan
 
+This is a compliation of advice and thoughts I've gather from my experience in tech, talking to engineers, and talking with friends coming out of bootcamps. It is meant to be directional advice.
+
+**Table of contents:**
+
 - [Internship or Junior Level Fullstack Job Plan](#internship-or-junior-level-fullstack-job-plan)
   - [TLDR Plan](#tldr-plan)
   - [Background / About the Author](#background--about-the-author)
