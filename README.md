@@ -15,6 +15,12 @@ This is a compliation of advice and thoughts I've gather from my experience in t
   - [Understanding Coding Interviews](#understanding-coding-interviews)
   - [Contributing](#contributing)
 
+
+Outside of this readme, there are several worksheets to drill some core fullstack developer concepts. Easy versions, hard versions, and answer keys are provided.
+
+Worksheets:
+
+- [Http Request Types](./worksheets/http-request-types/)
 ## TLDR Plan
 
 Note that these aren't "blockers" from applying to jobs. Ideally they are things you should be doing continually while applying and inteviewing!
